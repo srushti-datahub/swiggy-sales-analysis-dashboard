@@ -1,6 +1,6 @@
-##🍔 Swiggy Sales Analysis Dashboard
+🍔 Swiggy Sales Analysis Dashboard
 
-#📌 Project Overview
+📌 Project Overview
 
 This project analyzes Swiggy food delivery data to evaluate business performance using key KPIs and interactive visualizations. The dashboard provides insights into revenue trends, customer satisfaction, order patterns, and geographical performance.
 
@@ -93,7 +93,7 @@ Tracks weekly fluctuations to detect business consistency or spikes.
 
 🛠️ Tools & Technologies Used
 
-Microsoft Excel / Power BI (for dashboard creation)
+Microsoft Excel  (for dashboard creation)
 
 Data Cleaning & Transformation
 
@@ -149,9 +149,8 @@ Customer experience improvement
 
 📷 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+![Dashboard Screenshot]("Pictures\Screenshots\Screenshot 2026-02-22 100423.png")
 
-![Dashboard Screenshot](images/dashboard.png)
 📌 Future Improvements
 
 Add customer segmentation analysis
