@@ -1,42 +1,42 @@
-🍔 Swiggy Sales Analysis Dashboard
+# 🍔 Swiggy Sales Analysis Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes Swiggy food delivery data to evaluate business performance using key KPIs and interactive visualizations. The dashboard provides insights into revenue trends, customer satisfaction, order patterns, and geographical performance.
 
 The goal is to transform raw sales data into meaningful business intelligence that supports strategic decision-making.
 
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
-Swiggy needs a structured data analysis approach to:
+- Swiggy needs a structured data analysis approach to:
 
-Monitor revenue performance
+- Monitor revenue performance
 
-Track customer satisfaction
+- Track customer satisfaction
 
-Analyze order trends
+- Analyze order trends
 
-Identify top-performing cities and states
+- Identify top-performing cities and states
 
-Compare food category contributions
+- Compare food category contributions
 
-This dashboard solves that by visualizing KPIs and trends in a clear and actionable format.
+- This dashboard solves that by visualizing KPIs and trends in a clear and actionable format.
 
 
-📊 Business Requirements (BRD)
+## 📊 Business Requirements (BRD)
 
 🔹 Key Performance Indicators (KPIs)
 
-Total Sales (₹)
+- Total Sales (₹)
 
 Overall revenue generated from food orders.
 
-Average Rating
+- Average Rating
 
 Measures customer satisfaction across restaurants.
 
-Average Order Value (₹)
+- Average Order Value (₹)
 
 Revenue generated per order.
 
@@ -44,16 +44,16 @@ Formula:
 
 Average Order Value = Total Sales / Total Orders
 
-Ratings Count
+ - Ratings Count
 
 Total number of customer reviews received.
 
-Total Orders
+ - Total Orders
 
 Total number of food orders placed.
 
 
-📈 Dashboard Visualizations
+## 📈 Dashboard Visualizations
 
 1️⃣ Monthly Sales Trend
 
@@ -75,11 +75,11 @@ Displays geographic revenue distribution to identify high-performing regions.
 
 Combines:
 
-Sales
+- Sales
 
-Ratings
+- Ratings
 
-Orders
+- Orders
 
 To evaluate quarter-wise business performance.
 
@@ -93,70 +93,70 @@ Tracks weekly fluctuations to detect business consistency or spikes.
 
 🛠️ Tools & Technologies Used
 
-Microsoft Excel  (for dashboard creation)
+- Microsoft Excel  (for dashboard creation)
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Pivot Tables
+- Pivot Tables
 
-DAX (if Power BI used)
+- DAX (if Power BI used)
 
-Data Visualization Techniques
+- Data Visualization Techniques
 
 📂 Dataset Description
 
-The dataset includes:
+- The dataset includes:
 
-Order Date
+- Order Date
 
-City
+- City
 
-State
+- State
 
-Food Type (Veg / Non-Veg)
+- Food Type (Veg / Non-Veg)
 
-Sales Amount
+- Sales Amount
 
-Ratings
+- Ratings
 
-Number of Orders
+- Number of Orders
 
-🔎 Key Insights (Example)
+## 🔎 Key Insights (Example)
 
-Revenue shows monthly fluctuations indicating seasonal trends.
+- Revenue shows monthly fluctuations indicating seasonal trends.
 
-Certain cities significantly outperform others in total sales.
+- Certain cities significantly outperform others in total sales.
 
-Non-vegetarian food may contribute higher revenue share (if observed in analysis).
+- Non-vegetarian food may contribute higher revenue share (if observed in analysis).
 
-Weekend sales tend to be higher compared to weekdays.
+- Weekend sales tend to be higher compared to weekdays.
 
-Customer ratings remain relatively stable across quarters.
+- Customer ratings remain relatively stable across quarters.
 
-🚀 Business Impact
+## 🚀 Business Impact
 
-This dashboard enables:
+- This dashboard enables:
 
-Performance monitoring in real time
+- Performance monitoring in real time
 
-Identification of growth opportunities
+- Identification of growth opportunities
 
-Regional expansion planning
+- Regional expansion planning
 
-Data-driven decision making
+- Data-driven decision making
 
-Customer experience improvement
+- Customer experience improvement
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Dashboard Screenshot]("Pictures\Screenshots\Screenshot 2026-02-22 100423.png")
 
-📌 Future Improvements
+## 📌 Future Improvements
 
-Add customer segmentation analysis
+- Add customer segmentation analysis
 
-Include delivery time performance metrics
+- Include delivery time performance metrics
 
-Integrate real-time data connection
+- Integrate real-time data connection
 
-Add predictive sales forecasting
+- Add predictive sales forecasting
