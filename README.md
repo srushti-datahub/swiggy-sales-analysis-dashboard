@@ -149,7 +149,7 @@ Tracks weekly fluctuations to detect business consistency or spikes.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]("Pictures\Screenshots\Screenshot 2026-02-22 100423.png")
+![image alt](https://github.com/srushti-datahub/swiggy-sales-analysis-dashboard/blob/cca2a5a9e6bc9589049d5bfe8dfa6ac9428f2e8f/Swiggy-Dashboard-Screenshot.png)
 
 ## 📌 Future Improvements
 
